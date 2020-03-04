@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bus Tracker</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="button_enter">Enter</string>
+    <string name="change_text">Text to be changed</string>>
+
+</resources>
